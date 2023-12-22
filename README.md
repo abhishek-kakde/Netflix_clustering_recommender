@@ -21,3 +21,35 @@ Pandas for data manipulation, aggregation
 Matplotlib,Seaborn and Plotly Express for visualization and behavior with respect to the target variable
 NumPy for computationally efficient operations
 Sklearn for models
+
+
+## Netflix Recommender System and Clustering Project
+
+Overview
+This project implements a Netflix Recommender System and explores clustering techniques, including KMeans, Agglomerative Hierarchical Clustering, and DBSCAN. The recommender system suggests personalized movies or TV shows based on user preferences, while the clustering techniques help identify patterns and group similar content or users.
+
+Table of Contents
+Installation
+Usage
+Recommender System
+Clustering Techniques
+KMeans
+Agglomerative Hierarchical Clustering
+DBSCAN
+Data
+Contributing
+Installation
+Clone the repository:
+
+Copy code
+git clone https://github.com/yourusername/netflix-recommender-clustering.git
+cd netflix-recommender-clustering
+
+Data
+The dataset used for this project can be found in the data directory. Ensure it is downloaded and available for use.
+
+Contributing
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
+
+
+
