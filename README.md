@@ -1,4 +1,8 @@
-# Netflix_clustering_recommender
+
+## Netflix Recommender System and Clustering Project
+
+Overview
+This project implements a Netflix Recommender System and explores clustering techniques, including KMeans, Agglomerative Hierarchical Clustering, and DBSCAN. The recommender system suggests personalized movies or TV shows based on user preferences, while the clustering techniques help identify patterns and group similar content or users.
 
 Business Context
 
@@ -23,11 +27,6 @@ NumPy for computationally efficient operations
 Sklearn for models
 
 
-## Netflix Recommender System and Clustering Project
-
-Overview
-This project implements a Netflix Recommender System and explores clustering techniques, including KMeans, Agglomerative Hierarchical Clustering, and DBSCAN. The recommender system suggests personalized movies or TV shows based on user preferences, while the clustering techniques help identify patterns and group similar content or users.
-
 Table of Contents
 Installation
 Usage
@@ -42,8 +41,7 @@ Installation
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/netflix-recommender-clustering.git
-cd netflix-recommender-clustering
+git clone https://github.com/abhishek-kakde/Netflix_clustering_recommender
 
 Data
 The dataset used for this project can be found in the data directory. Ensure it is downloaded and available for use.
